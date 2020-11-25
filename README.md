@@ -23,4 +23,4 @@
 ```
 
 - задача со *звёздочкой*: завернуть приложение в docker
-- задача на *две звёздочки*: выкатить куда-либо с помощью github-actions/gitlab/jenkins/etc
+- задача на *две звёздочки*: выложить куда-либо (heroku/DigitalOcean/etc) с помощью github-actions/gitlab/jenkins/etc
