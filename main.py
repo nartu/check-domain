@@ -5,7 +5,7 @@ app = FastAPI()
 
 @app.get("/")
 async def root():
-    return {"message": "Hello World"}
+    return {"message": "Try /healthz?hostname=semrush.com"}
 
 @app.get("/healthz")
 async def is_alive(hostname: str):
