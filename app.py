@@ -21,7 +21,6 @@ def is_alive_host(hostname):
     else:
         return 'off'
 
-hostname = "ya.ru"
-ans = is_alive_host(hostname)
-
+# hostname = "ya.ru"
+# ans = is_alive_host(hostname)
 # print(ans)

@@ -19,6 +19,7 @@ from app import is_alive_host
         ('ya.ru','on'),
         ('google.com','on'),
         ('navalny.com','on'),
+        ('ovdinfo.org','on'),
         ('102.com','off'),
         ('noname.shop','off'),
         ('q9lwbz65oyko.io','off'),
